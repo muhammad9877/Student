@@ -8,31 +8,26 @@ public class Student {
 
     private String name;
 
-    private String numHours;
+    private String numberofHours;
 
     /**
-     * Get the value of numHours
+     * Get the value of numberofHours
      *
-     * @return the value of numHours
+     * @return the value of numberofHours
      */
-    public String getNumHours() {
-        return numHours;
+    public String getNumberofHours() {
+        return numberofHours;
     }
 
     /**
-     * Set the value of numHours
+     * Set the value of numberofHours
      *
-     * @param numHours new value of numHours
+     * @param numberofHours new value of numberofHours
      */
-    public void setNumHours(String numHours) {
-        this.numHours = numHours;
+    public void setNumberofHours(String numberofHours) {
+        this.numberofHours = numberofHours;
     }
 
-    /**
-     * Get the value of name
-     *
-     * @return the value of name
-     */
     public String getName() {
         return name;
     }
