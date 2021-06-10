@@ -2,7 +2,7 @@ package ca.sherdiancollege.week1.softwarefundamentals;
 
 /** This class +++Insert Description+++
  *
- * @author Muhammad Chaudhry
+ * @author Muhammad Chaudhry june 2021
  */
 public class StrudentList {
     public static void main(String[] args) {
